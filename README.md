@@ -17,3 +17,7 @@ IDEA 常用快捷键
 
 ## chapter5
 有标号的break
+
+## chapter6
+* 强引用
+* 弱引用 SoftReference 适用于创建缓存

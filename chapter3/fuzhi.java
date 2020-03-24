@@ -3,7 +3,7 @@ public class fuzhi {
         byte a = 9;
         byte b = 7;
         // byte运算是自动变为int,会报错
-        byte c = a + b;
+        byte c = (byte) (a + b);
         System.out.println(c);
     }
 }

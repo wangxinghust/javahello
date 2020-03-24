@@ -21,3 +21,12 @@ IDEA 常用快捷键
 ## chapter6
 * 强引用
 * 弱引用 SoftReference 适用于创建缓存
+
+## chapter7
+* transient 修饰非静态变量，与序列化有关
+* synchronized 修饰方法，用于多线程同步
+
+传递Java方法的参数方式只有一种，即使用值传递方式
+
+JUnit单元测试
+* 需要添加harmcrest.jar、junit.jar包

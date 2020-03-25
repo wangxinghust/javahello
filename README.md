@@ -5,6 +5,7 @@ IDEA 常用快捷键
 * Ctrl+D 复制当前行代码
 * Alt+F12 打开命令行
 * Ctrl+Alt+L Reformat Code
+* 输入/** ,点击“Enter”，自动根据参数和返回值生成注释模板
 
 ## chapter3
 
@@ -28,5 +29,10 @@ IDEA 常用快捷键
 
 传递Java方法的参数方式只有一种，即使用值传递方式
 
+Java中的引用传递对应C++中的指针传递，String字符串具有不变性，与StringBuffer不同
+
 JUnit单元测试
 * 需要添加harmcrest.jar、junit.jar包
+
+## chapter8
+* Interface中的Method都是抽象的，公有的，可以省略关键字public、abstract

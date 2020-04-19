@@ -6,6 +6,7 @@ IDEA 常用快捷键
 * Alt+F12 打开命令行
 * Ctrl+Alt+L Reformat Code
 * 输入/** ,点击“Enter”，自动根据参数和返回值生成注释模板
+* Ctrl+Shift+F10 运行当前文件main()
 
 ## chapter3
 

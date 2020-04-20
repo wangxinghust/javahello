@@ -7,6 +7,7 @@ IDEA 常用快捷键
 * Ctrl+Alt+L Reformat Code
 * 输入/** ,点击“Enter”，自动根据参数和返回值生成注释模板
 * Ctrl+Shift+F10 运行当前文件main()
+* Alt+Insert 自动生成类有关的构造函数、Getter等
 
 ## chapter3
 
@@ -47,10 +48,21 @@ JUnit单元测试
 3. 弱引用 WeakReference
 4. 虚引用 PhantomReference
 
-final修饰的方法不能重写，可以重载
+final修饰的方法不能重写，可以重载，final其语义为不可变的
 
 内部类
 1. 成员内部类
 2. 局部内部类
 3. 静态内部类
 4. 匿名内部类
+
+## chapter11
+[正则表达式教程](https://deerchao.cn/tutorials/regex/regex.htm)
+
+步骤：
+1. 新建Pattern
+2. 进行matcher匹配
+3. 判断或修改
+
+## chapter12
+Java泛型与C++的泛型（模板）相似，但实现手法不同，Java里存在擦除

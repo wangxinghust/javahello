@@ -8,6 +8,8 @@ IDEA 常用快捷键
 * 输入/** ,点击“Enter”，自动根据参数和返回值生成注释模板
 * Ctrl+Shift+F10 运行当前文件main()
 * Alt+Insert 自动生成类有关的构造函数、Getter等
+* Ctrl+P 方法参数提示
+* Ctrl+Shift+上下键  上下移动代码，配合Ctrl+D复制
 
 ## chapter3
 

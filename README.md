@@ -10,6 +10,7 @@ IDEA 常用快捷键
 * Alt+Insert 自动生成类有关的构造函数、Getter等
 * Ctrl+P 方法参数提示
 * Ctrl+Shift+上下键  上下移动代码，配合Ctrl+D复制
+* Ctrl+Tab 切换浏览窗口 配合Alt+Insert新建Class文件
 
 ## chapter3
 

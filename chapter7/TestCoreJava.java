@@ -1,10 +1,7 @@
-import org.junit.Test;
-
 /**
- * JUnit单元测试
+ * JUnit单元测试 删除了JUnit4测试
  */
 public class TestCoreJava {
-    @Test
     public void testString() {
         String original = "original value";
         modifyA(original);

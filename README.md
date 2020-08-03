@@ -11,6 +11,7 @@ IDEA 常用快捷键
 * Ctrl+P 方法参数提示
 * Ctrl+Shift+上下键  上下移动代码，配合Ctrl+D复制
 * Ctrl+Tab 切换浏览窗口 配合Alt+Insert新建Class文件
+* Alt+1 切换到Project窗口
 
 ## chapter3
 

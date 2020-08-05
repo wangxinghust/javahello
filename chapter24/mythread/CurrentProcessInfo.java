@@ -1,5 +1,7 @@
 package mythread;
 
+import org.jetbrains.annotations.NotNull;
+
 import java.time.Duration;
 import java.time.Instant;
 import java.time.ZoneId;
@@ -16,9 +18,9 @@ public class CurrentProcessInfo {
 
     /**
      * 输出进程的详细信息
-     * @param handle
+     * @param handle 进程
      */
-    private static void printInfo(ProcessHandle handle) {
+    private static void printInfo(@NotNull ProcessHandle handle) {
         // 获取进程的pid
         long pid=handle.pid();
         // 如果进程仍然在运行
